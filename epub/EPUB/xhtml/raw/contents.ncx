@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+
+<head>
+    <meta name="dtb:uid" content="urn:uuid:ddefb5ab-3e6f-7d19-47a4-bbd3623e4438"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+</head>
+
+ <docTitle>
+      <text>Table of Contents</text>
+ </docTitle>
+    
+<navMap>
+    <navPoint id="ncx0" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="../pdfsa2wv/page1/page.xhtml"></content></navPoint>
+</navMap>
+    
+</ncx>

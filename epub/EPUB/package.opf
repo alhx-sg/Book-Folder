@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Untitled Book</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:ddefb5ab-3e6f-7d19-47a4-bbd3623e4438</dc:identifier>
+        <meta name="cover" content="img0" />
+
+        <dc:creator>Kotobee</dc:creator>
+        <dc:publisher>N/A</dc:publisher>
+        <dc:rights>Kotobee</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>No description available</dc:description>
+        <meta property="dcterms:modified">2022-03-14T14:49:12Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.6.9</meta>
+        <meta property="kotobee:build">1347</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/pdfsa2wv/page1/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/final-170222-for-hc-.jpg" properties="cover-image" media-type="image/jpeg"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-pre-paginated"/>
+
+    </spine>
+
+    
+    
+</package>
